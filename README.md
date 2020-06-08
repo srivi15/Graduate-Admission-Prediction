@@ -16,3 +16,8 @@ Citation of the dataset: Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comp
 1. Clone the repository
 2. Tag the citations when using the dataset
 3. Tag me if you can when you are using this implementation code to improvise.
+
+# Note 2:
+Some of the plots made by plotly doesn't load in the github. So, the plot views can be viewed using this link https://nbviewer.jupyter.org/github/srivi15/Graduate-Admission-Prediction/blob/master/Graduate%20Admission%20Prediction%20%282%29.ipynb
+
+Feel free to star the repository if it seems useful.
